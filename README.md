@@ -25,5 +25,5 @@ I'm Mohit Chhaya, a project manager at Mercury Signs Inc. and a current student 
   <img align="center" width="45%" height="50%" style="margin-right:1%" src="https://github-readme-stats.vercel.app/api?username=mrchhaya&show_icons=true&theme=radical&count_private=true&hide=stars,prs&include_all_commits=true" />
 </a>
 <a href="https://github.com/mrchhaya">
-  <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchhaya&hide=jupyter%20notebook" />
+  <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchhaya&hide=jupyter%20notebook&layout=compact" />
 </a>
