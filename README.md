@@ -4,7 +4,9 @@
 
 I'm Mohit Chhaya, a project manager at Mercury Signs Inc. and a current student at Panther Creek High School in North Carolina. 
 
-[LinkedIn](https://www.linkedin.com/in/mohit-chhaya-54582219b/) [Email](mailto:mohitchhaya24@gmail.com)
+
+<a href="https://www.linkedin.com/in/mohit-chhaya-54582219b"><img src="https://simpleicons.org/icons/linkedin.svg" height="5%" width="5%"></a>
+<a href="mailto:mohitchhaya24@gmail.com"><img src="https://simpleicons.org/icons/gmail.svg" height="5%" width="5%"></a>
 
 ### Currently Working on 🧠
 - Financial Analysis Dashboard for Mercury Signs 
@@ -27,3 +29,4 @@ I'm Mohit Chhaya, a project manager at Mercury Signs Inc. and a current student 
 <a href="https://github.com/mrchhaya">
   <img align="center" width="45%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchhaya&hide=jupyter%20notebook&layout=compact" />
 </a>
+ 
